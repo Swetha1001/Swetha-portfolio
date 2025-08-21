@@ -19,7 +19,7 @@ https://github.com/Swetha1001/Swetha-portfolio/blob/b7a2319c14766a7af59fbf1291be
 
 ## 📁 Files Included
 
-- `HR_Analytics_Dashboard.pbix`: Power BI dashboard
+- [`HR_Analytics_Dashboard.pbix](https://github.com/Swetha1001/Swetha-portfolio/blob/b7a2319c14766a7af59fbf1291bec0b9cb0c4c69/projects/excel-dashboard/HR_Analytics_Dashboard.png)`: Power BI dashboard
 - `Employee_Data.xlsx`: Cleaned dataset used for analysis
 - `HR_SQL_Queries.sql`: SQL queries for data analysis and transformation
 - `Screenshots/`: Folder containing dashboard and visuals preview
