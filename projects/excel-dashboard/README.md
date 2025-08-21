@@ -14,9 +14,7 @@ This project is an end-to-end HR analytics solution that explores employee data 
 
 ## 📊 Dashboard Preview
 
-![HR Dashboard](hr_dashboard.png)
-
-> *(Replace `hr_dashboard.png` with the actual image file name you uploaded)*
+![HR Dashboard]projects/excel-dashboard/HR_Analytics_Dashboard.png
 
 ---
 
