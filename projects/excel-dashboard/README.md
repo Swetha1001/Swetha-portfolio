@@ -17,10 +17,6 @@ This project is an end-to-end HR analytics solution that explores employee data 
 ![Dashboard Preview](HR Analytics Dashboard.png)
 
 
-
-
-
-
 ---
 
 ## 📁 Files Included
