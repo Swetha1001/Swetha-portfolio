@@ -14,7 +14,7 @@ This project is an end-to-end HR analytics solution that explores employee data 
 
 ### 📊 HR Analytics Dashboard Preview
 
-![HR Analytice Dashboard(https://your-image-link.com/image.png)
+![HR Analytice Dashboard( https://github.com/Swetha1001/Swetha-portfolio/blob/40671926e1e59c7e359d4fcaa121b0205f22807c/projects/excel-dashboard/HR%20Analytics%20Dashboard.png )
 
 
 ---
