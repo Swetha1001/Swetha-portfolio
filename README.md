@@ -28,7 +28,7 @@ This project is an end-to-end HR analytics solution that explores employee data 
 
 ## 📁 Files Included
 
-- `HR_Analytics_Dashboard.pbix`: Power BI dashboard
+- `HR_Analytics.pbix`: Power BI dashboard
 - `Employee_Data.xlsx`: Cleaned dataset used for analysis
 - `HR_SQL_Queries.sql`: SQL queries for data analysis and transformation
 - `Screenshots/`: Folder containing dashboard and visuals preview
