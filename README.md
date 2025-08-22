@@ -28,19 +28,27 @@ This project is an end-to-end HR analytics solution that explores employee data 
 
 ## 📁 Files Included
 
-- `HR_Analytics.pbix`: Power BI dashboard
-- `Employee_Data.xlsx`: Cleaned dataset used for analysis
-- `HR_SQL_Queries.sql`: SQL queries for data analysis and transformation
-- `Screenshots/`: Folder containing dashboard and visuals preview
+- `HR_Analytics.pbix`: Power BI visualization file  
+- `HR_Analytics_Dashboard.png`: Dashboard screenshot preview  
+- `HR_Analytics.xlsx`: Cleaned dataset used for analysis  
+- `HR_Analytics.sql`: SQL queries for data extraction and transformation  
 
 ---
 
 ## 📌 Key Insights
 
-- **Attrition Rate**: 51% overall, highest in the Finance department
+- **Attrition Rate**: 51% overall, Organization losing half its workforce
 - **Gender Pay Gap**: Males are paid more on average across departments
-- **Department Trends**: Sales and HR show higher attrition than others
-- **Experience vs Salary**: Positive correlation found
+- **Job Satisfaction**: 2.5 overall, critically low employee engagement
+- **Perfomance Rating**: Managers underperform (2.35) and create retention risk
+
+---
+## 💡 Solution
+
+- **Reduce Attrition**: Conduct exit interviews, introduce career growth paths, and improve work-life balance to retain talent.
+- **Close Gender Pay Gap:**: Perform salary audits, enforce transparent pay structures, and promote fair promotion practices.
+- **Boost Job Satisfaction:**: Gather employee feedback, offer upskilling and recognition programs, and enhance workplace culture.
+- **Improve Manager Performance**: Provide leadership training, set clear KPIs, and use feedback systems to strengthen management effectiveness.
 
 ---
 
@@ -61,7 +69,6 @@ This project is an end-to-end HR analytics solution that explores employee data 
 ---
 
 ## 📞 Contact
-Enmail- swethakogilaswaran@gmail.com
 
 **Swetha K**  
 📧 swethakogilaswaran@gmail.com  
